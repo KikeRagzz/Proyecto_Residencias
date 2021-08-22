@@ -1,0 +1,7 @@
+CRD,Status,Note,Result,Expect,Nodes,Validacion
+R1049,  FAIL,  Note: RES TKF 1.43 k ohm 0.1W 1% SM 0603 Pb-FREE,  Measured: 2.171 kOhm,"  Expected: R = 1.430 kOhm (+ 25%, - 25%)""","  N1: V_PXFP_VAR_VSET (2332), N2: VPXFP_VAR_FB (2857)",pass
+C13,  FAIL,"  Cmt: CAP,CE, 1uF,6.3V,20%,SM,0603in,X5R(-55'C""",  Result: 654.3 nF,  Expected: C = 1.000 Ãƒâ€šÃ‚ÂµF (+- 25%),"  N1: ADM_VREFOUT (3666), N2: GND (33)",pass
+C117,  FAIL,"  Cmt: CAP,CE, 1uF, 16V,10%,SM,0805in,X7R,Pb-Fr""",  Result: 1.885 Ãƒâ€šÃ‚ÂµF,  Expected: 1.250 Ãƒâ€šÃ‚ÂµF > C > 750.0 nF,"  N1: ADM_VCCP (3895), N2: GND (33)",pass
+C317,  FAIL,"  Cmt: CAP,CE,1nF,50V,X7R,10%,SM,0402in,Pb-FREE""",  Result: 2.811 nF,  Expected: C = 1.000 nF (+- 25%),"  N1: XM_L3_S_IN_P (3114), N2: AC_XM_L3_S_IN_P (1873)",pass
+C333,  FAIL,"  Cmt: CAP,CE,1nF,50V,X7R,10%,SM,0402in,Pb-FREE""",  Result: 3.227 nF,  Expected: C = 1.000 nF (+- 25%),"  N1: AC_XM_L2_S_IN_P (1889), N2: XM_L2_S_IN_P (3130)",pass
+C431,  FAIL,"  Cmt: CAP,CE,1nF,50V,X7R,10%,SM,0402in,Pb-FREE""",  Result: 4.034 nF,  Expected: C = 1.800 nF (+- 25%),"  N1: AC_MX_L0_S_OUT_N (3174), N2: MX_L0_S_OUT_N (1917)""",pass

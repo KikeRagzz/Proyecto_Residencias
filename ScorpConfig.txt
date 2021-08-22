@@ -1,0 +1,12 @@
+PathIn;C:/Users/Enrique Ramos/Desktop/Programa Para Acomodar Falla de Scopion
+PathSave;C:/Users/Enrique Ramos/Desktop/Programa Para Acomodar Falla de Scopion/Prueba_Algoritmo
+Custom;CISCO
+TestName;AOI
+AssemblyRev;RevA
+Process;Digital
+Status;Pass
+Assembly Name;727137137
+BoardStyle;Moor Park
+Serial;SSFDAFD
+Line;7
+Site;6
